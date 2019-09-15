@@ -1,0 +1,17 @@
+Package: com.shiarahmed.snapchat
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: Shiar Ahmed
+Depends: mobilesubstrate, firmware (=> 12.0
+Filename: ./debs/com.shiarahmed.snapchat_1.0-1+debug_iphoneos-arm.deb
+Size: 5948
+MD5sum: 84a408d60670bd8dc9df869d66ad490e
+SHA1: 7fa456722e331b4d970786ea1c1be025b87a3b1e
+SHA256: 7bac7cf4b960f79e3125d49cc076765d5866892b72a13f74e8b54e6bdf48e37f
+Depiction: https://shiarahmed.github.io/test/depictions/?p=test
+SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Shiar Ahmed
+Installed-Size: 84
+Name: Snapchat
