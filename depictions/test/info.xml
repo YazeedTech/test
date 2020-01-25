@@ -17,7 +17,9 @@
 		<description>Snapchat test</description>
 		<description>Supports iOS 10.0 - 12.4</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+  <screenshot>Cydia.png</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
